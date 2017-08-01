@@ -1,4 +1,4 @@
-[![MHE Logo](http://ecommerce-prod.mheducation.com.s3.amazonaws.com/unitas/corporate/news/press-kit/mhe-logo-red-rgb-300ppi.png)](http://www.mheducation.com/)
+[![MHE Logo](http://ecommerce-prod.mheducation.com.s3.amazonaws.com/unitas/corporate/news/press-kit/mhe-logo-red-rgb-150ppi.png)](http://www.mheducation.com/)
 
 # Vending Machine Kata: Drinking the ngCola?
 
