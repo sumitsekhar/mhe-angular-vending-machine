@@ -16,8 +16,6 @@ The point of this kata is to provide a larger than trivial exercise that will sh
 
 ## Setup
 
-Prerequisites: _@angular/cli_
-
 Install dependencies:
 ```
 npm install
