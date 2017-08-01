@@ -1,19 +1,18 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
+[![MHE Logo](http://ecommerce-prod.mheducation.com.s3.amazonaws.com/unitas/corporate/news/press-kit/mhe-logo-red-rgb-300ppi.png)](http://www.mheducation.com/)
 
 # Vending Machine Kata: Drinking the ngCola?
 
 ## Prerequisites
 
-- [Intro to Angular 2](https://github.com/MaxBlaushild/angular2)
-- [Intro to TypeScript](https://github.com/MaxBlaushild/ts)
+- npm 3.10.10 
+- node 6.11.0
 
 ## Introduction
 
 In this exercise you will build the brains of a vending machine.  It will accept money, maintain
 inventory, and dispense products.  All the things that you might expect a vending machine to accomplish.
 
-The point of this kata is to provide a larger than trivial exercise that will enhance your understanding of Typescript and Angular 2.  A significant
-portion of the effort will be in determining how to create your components and interact with the provided Angular services for managing communication across components and external API calls.
+The point of this kata is to provide a larger than trivial exercise that will show your understanding of Typescript and Angular 2.  A significant portion of the effort will be in determining how to create your components and interact with the provided Angular services for managing communication across components and external API calls.
 
 ## Setup
 
@@ -44,9 +43,9 @@ Navigate to `http://localhost:4200/`. The app will automatically reload if you c
 
 ## Features
 
-As a professional software engineer, you will most likely be working off of stories. We have split the work of creating our vending machine into three user stories.
+We have split the work of creating our vending machine into three user stories.
 
-### Watch: Insert Coin
+### STORY-1: Insert Coin
 
 _As a vendor_  
 _I want a vending machine that accepts coins_  
@@ -56,7 +55,7 @@ _So that I can collect money from the customer_
 - When a valid coin is inserted (button pressed) the amount of the coin will be added to the current balance and the machine's display will be updated.
 - When there are no coins inserted, the machine displays INSERT COIN.
 
-### Code Together: Select Item
+### STORY-2: Select Item
 
 _As a vendor_  
 _I want customers to select items_  
@@ -65,7 +64,7 @@ _So that I can give them an incentive to put money in the machine_
 - The machine shows a list of items with their price and remaining inventory. List represented as radio button group.
 - List of items is populated from item.service, which uses the external API to return an array of item objects.
 
-### Pair Lab: Dispense Item
+### STORY-3: Dispense Item
 
 _As a customer_  
 _I want to be told whether my item has been dispensed_  
