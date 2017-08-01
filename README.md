@@ -1,5 +1,3 @@
-[![MHE Logo](http://ecommerce-prod.mheducation.com.s3.amazonaws.com/unitas/corporate/news/press-kit/mhe-logo-red-rgb-150ppi.png)](http://www.mheducation.com/)
-
 # Vending Machine Kata: Drinking the ngCola?
 
 ## Prerequisites
@@ -12,7 +10,7 @@
 In this exercise you will build the brains of a vending machine.  It will accept money, maintain
 inventory, and dispense products.  All the things that you might expect a vending machine to accomplish.
 
-The point of this kata is to provide a larger than trivial exercise that will show your understanding of Typescript and Angular 2.  A significant portion of the effort will be in determining how to create your components and interact with the provided Angular services for managing communication across components and external API calls.
+The point of this kata is to provide a larger than trivial exercise that will show your understanding of Typescript and Angular.  A significant portion of the effort will be in determining how to create your components and interact with the provided Angular services for managing communication across components and external API calls.
 
 ## Setup
 
@@ -85,3 +83,5 @@ Please make liberal use of this [cheatsheet](https://angular.io/docs/ts/latest/g
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3.
+
+[![MHE Logo](http://ecommerce-prod.mheducation.com.s3.amazonaws.com/unitas/corporate/news/press-kit/mhe-logo-red-rgb-150ppi.png)](http://www.mheducation.com/)
