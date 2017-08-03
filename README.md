@@ -12,6 +12,10 @@ inventory, and dispense products.  All the things that you might expect a vendin
 
 The point of this kata is to provide a larger than trivial exercise that will show your understanding of Typescript and Angular.  A significant portion of the effort will be in determining how to create your components and interact with the provided Angular services for managing communication across components and external API calls.
 
+## Interview Instructions
+
+Please fork the original repo https://github.com/mhelabs/mhe-angular-vending-machine and submit your work as PR to mhelabs/mhe-angular-vending-machine. In the PR comments please include any questions/feedback you have going along with your work. Thank you!
+
 ## Setup
 
 Install dependencies:
