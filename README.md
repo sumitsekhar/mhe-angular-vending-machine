@@ -51,6 +51,8 @@ _So that I can collect money from the customer_
 - When a valid coin is inserted (button pressed) the amount of the coin will be added to the current balance and the machine's display will be updated.
 - When there are no coins inserted, the machine displays INSERT COIN.
 
+DEV NOTE: insert-coin.component and balance.service have been created for you -- please wire up the component correctly
+
 ### STORY-2: Select Item
 
 _As a vendor_  
@@ -59,6 +61,8 @@ _So that I can give them an incentive to put money in the machine_
 
 - The machine shows a list of items with their price and remaining inventory. List represented as radio button group.
 - List of items is populated from item.service, which uses the external API to return an array of item objects.
+
+DEV NOTE: item.service has been created for you -- please create the component and wire up correctly
 
 ### STORY-3: Dispense Item
 
