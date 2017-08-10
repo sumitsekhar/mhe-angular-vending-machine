@@ -1,4 +1,4 @@
-# Vending Machine Kata: Drinking the ngCola?
+# Vending Machine Interview Take-Home
 
 ## Prerequisites
 
