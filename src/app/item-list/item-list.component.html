@@ -1,0 +1,18 @@
+<div class="itemContainer">
+  <div class="heading">Item Details</div>
+    <div  *ngFor="let item of items">
+      <div class="item">
+        <span class="block"><input type="radio"  name="item" (change)="onSelection(item)" [value]='item'> {{item.name}}</span>
+        <span class="block">Cost: {{item.cost| currency:'USD':true}}</span>
+        <span class="block">Remaining Units: {{item.remaining}}</span>
+      </div>
+    </div>
+    <button class="button -blue" (click)="dispense()">Dispense</button> 
+    <br/><span class="message">{{message}}</span> 
+</div>
+ 
+       
+               
+     
+
+
