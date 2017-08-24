@@ -1,0 +1,37 @@
+.itemContainer {
+  width: 80%;
+  height: 200px;  
+}
+
+.heading {
+  color: black ; 
+  font-family: Helvetica Neue', sans-serif'; 
+  font-size: 30px; 
+  font-weight: 300; 
+  line-height: 32px;  
+}
+
+.item {
+  width: 60%;
+  height: 40px;
+  background-color: lightgreen;
+  margin: 5px;
+  padding-top: 10px;
+  border-radius: 4px; 
+}
+
+.block {
+  width: 30%;
+  float: left;
+  font-family: Helvetica Neue', sans-serif'; 
+  font-size: 20px; 
+  font-weight: 300; 
+  line-height: 32px; 
+}
+
+.message {
+  color: yellow; 
+  font-family: 'Open Sans', sans-serif; 
+  font-size: 15px; 
+  font-weight: 300;
+}
